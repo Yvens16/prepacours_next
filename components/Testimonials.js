@@ -99,7 +99,7 @@ function Testimonials () {
                         <p className='text-base text-gray-600 leading-8'>
                           Bonjour, je voulais vous informer que le dossier de
                           Rachel a été retenu à la Sorbonne pour ses études de
-                          médecine. Je vous remercie pour l'aide que vous lui
+                          médecine. Je vous remercie pour l&apos;aide que vous lui
                           avez apporté.
                           Je voulais par ailleurs vous solliciter
                           pour mon plus jeune fils Pierre si possible.
@@ -230,7 +230,7 @@ function Testimonials () {
                         <p className='text-base text-gray-600 leading-8'>
                           Bon professeur qui explique bien les cours et attentif
                           à ses élèves. Nolan qui est assez timide se sent
-                          apparemment à l'aise avec son professeur. Le compte
+                          apparemment à l&apos;aise avec son professeur. Le compte
                           rendu envoyé après chaque cours est très intérressant
                           mais devrait être un peu plus détaillé.
                         </p>
@@ -269,7 +269,7 @@ function Testimonials () {
                           />
                         </div> */}
                         <p className='text-base text-gray-600 leading-8'>
-                          Emmannuel part du niveau de l'élève et personnalise
+                          Emmannuel part du niveau de l&apos;élève et personnalise
                           son cours. Il apprend des trucs et astuces pour mieux
                           réussir.
                         </p>

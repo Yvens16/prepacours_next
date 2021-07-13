@@ -21,7 +21,7 @@ export default function About () {
                   unique. On s’efforce de se mettre à la place de l’élève pour
                   mieux le comprendre et mener à bien son apprentissage. On
                   s’évertue, à « casser » cette distance prof-élève et à
-                  dédramatiser la situation pour que l'élève prenne confiance en
+                  dédramatiser la situation pour que l&apos;élève prenne confiance en
                   lui. <br />
                   <br /> Chez Prepacours, on pense que vouloir faire adhérer
                   l’élève à la matière sans lui donner du sens est vain. On
@@ -56,7 +56,7 @@ export default function About () {
                   unique. On s’efforce de se mettre à la place de l’élève pour
                   mieux le comprendre et mener à bien son apprentissage. On
                   s’évertue, à « casser » cette distance prof-élève et à
-                  dédramatiser la situation pour que l'élève prenne confiance en
+                  dédramatiser la situation pour que l&apos;élève prenne confiance en
                   lui. <br />
                   <br /> Chez Prepacours, on pense que vouloir faire adhérer
                   l’élève à la matière sans lui donner du sens est vain. On
