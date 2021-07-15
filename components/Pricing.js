@@ -4,7 +4,7 @@ function Index () {
     <div className='container mx-auto pt-16'>
       <div className='w-4/5 mx-auto pb-12'>
         <h1 className='xl:text-4xl text-3xl text-center text-gray-800 mb-4 font-extrabold'>
-          Une tarification clair et simple
+          Une tarification claire et simple
         </h1>
         <p className='text-xl text-center text-gray-600 leading-normal'>
           Découvrez nos formules de cours particuliers pour choisir
