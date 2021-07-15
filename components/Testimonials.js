@@ -12,26 +12,25 @@ import React from 'react'
 function Testimonials () {
   return (
     <>
-      <div className='container mx-auto pt-16'>
+      <div className='container overflow-x-scroll mx-auto pt-16'>
         {/* PLease install Pure React Carousel using "npm i pure-react-carousel" in order to use this component */}
-        {/* <div className='pb-12'>
+        <div className='pb-12'>
           <h1 className='text-3xl xl:text-5xl font-extrabold text-gray-800 mx-auto text-center xl:text-left pb-4'>
             Ce que nos clients pensent de nous
           </h1>
-          <p className='text-xl text-gray-600 xl:w-3/4 w-11/12 mx-auto xl:mx-0 text-center sm:text-left'>
+          {/* <p className='text-xl text-gray-600 xl:w-3/4 w-11/12 mx-auto xl:mx-0 text-center sm:text-left'>
             Bonjour, je voulais vous informer que le dossier de Rachel a été
             retenu à la Sorbonne pour ses études de médecine. Je vous remercie
             pour l'aide que vous lui avez apporté. Je voulais par ailleurs vous
             solliciter pour mon plus jeune fils Pierre si possible.
-          </p>
-        </div> */}
+          </p> */}
+        </div>
         <CarouselProvider
           naturalSlideWidth={100}
           naturalSlideHeight={125}
           totalSlides={2}
           isIntrinsicHeight={true}
           infinite={true}
-          step={1}
         >
           <Slider>
             <Slide index={1}>
