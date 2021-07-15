@@ -24,7 +24,7 @@ function Index () {
               Dès
               <span className='text-4xl text-red-700 font-medium px-2 line-through'>
                 39,80 €
-              </span>{' '}
+              </span>{' '}<br/>
               <span className='text-4xl text-indigo-700 font-medium px-2'>
                 19,90 €
               </span>
