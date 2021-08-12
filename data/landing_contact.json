@@ -1,0 +1,12 @@
+{
+  "contact_fb": {
+    "title": "Téléchargez notre Ebook",
+    "titleEmphazise": "gratuit",
+    "titleRest": "Les 10 points clé pour être bon en maths",
+    "description": "- En plus du Ebook, vous obtenez 1h de cours gratuit",
+    "descriptionEmphazise":"- Un bilan de compétences pour connaître les acquis et les points de renforcements de votre enfants.",
+    "prix": "16",
+    "earlybirds": "14",
+    "book": "prepacours/book_3eme"
+  }
+}
