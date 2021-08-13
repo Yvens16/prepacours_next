@@ -64,11 +64,11 @@ const features = [
   {
     name: 'Un rapport de progrès',
     description:
-      "Nous suivons l'évolution l'élève au fil des mois et nous fournissons un rapport détaillé aux parents.",
+      "Nous suivons l'évolution de l'élève au fil des mois et nous fournissons un rapport détaillé aux parents.",
     icon: TrendingUpIcon
   },
   {
-    name: 'Un suivi des examen',
+    name: 'Un suivi des examens',
     description:
       'Nous suivons de très près le résultat des examens et fournissons une explication détaillée de ses faiblesses.',
     icon: DocumentSearchIcon

@@ -140,8 +140,8 @@ function Testimonials () {
                           />
                         </div> */}
                         <p className='text-base text-gray-600 leading-8'>
-                          Salut Matteo à eu 16 au contrôle de maths surprise, il
-                          est en progression. Tro contente! On se revoit samedi,
+                          Salut Matteo a eu 16 au contrôle de maths surprise, il
+                          est en progression. Trop contente! On se revoit samedi,
                           même heure. Encore merci pour ton investissement !
                         </p>
                         <div className='flex justify-end mt-2'>
