@@ -453,6 +453,23 @@ export default function Example () {
   })
   return (
     <>
+      <Head>
+        <title>Cours particuliers en ligne</title>
+        <meta
+          name='viewport'
+          content='initial-scale=1.0, width=device-width initial-scale=1, maximum-scale=1, user-scalable=0'
+        />
+        <meta
+          name='description'
+          content="Cours particuliers en ligne"
+        />
+        <link rel='icon' href='/favicon.ico' />
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '1052443675288122'); fbq('track', 'PageView')`
+            }}
+          />
+      </Head>
       {GroupHero(url, logoUrl, landing_data)}
       <div className='py-12 bg-white'>
         <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
